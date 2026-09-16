@@ -8,5 +8,5 @@ Project implements a throwable die, which you can throw multiple times.
 - [x] Created GitHub repository
 - [x] Pushed local repository contents to remote GitHub repository
 - [ ] Added a contributor to the local repository, tried out collaborating together
-- [ ] Introduced a new branch to the repository
+- [x] Introduced a new branch to the repository
 - [ ] Merge branch and resolve merge conflicts
